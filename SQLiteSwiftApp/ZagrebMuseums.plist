@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Museum of Broken Relationships</string>
+		<string>Ćirilometodska 2</string>
+	</array>
+	<array>
+		<string>Museum of Illusions</string>
+		<string>Ilica 72</string>
+	</array>
+	<array>
+		<string>Museum of Naive Art</string>
+		<string> Ćirilometodska ul. 3</string>
+	</array>
+	<array>
+		<string>Archaeological Museum</string>
+		<string>Trg Nikole Šubića Zrinskog 19</string>
+	</array>
+	<array>
+		<string>Zagreb City Museum</string>
+		<string>Opatička ul. 20</string>
+	</array>
+	<array>
+		<string>Museum of Torture</string>
+		<string>Radićeva ul. 14</string>
+	</array>
+	<array>
+		<string>Mimara Museum</string>
+		<string>Rooseveltov trg 5</string>
+	</array>
+	<array>
+		<string>Technical Museum</string>
+		<string>Savska cesta 18</string>
+	</array>
+	<array>
+		<string>Museum of Contemporary Art</string>
+		<string>Avenija Dubrovnik 17</string>
+	</array>
+</array>
+</plist>
